@@ -167,6 +167,13 @@
     }
   }
   
+  .map-link{
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    color: #c2465d;
+    place-items: center;
+  }
   /* Define the keyframes */
   @keyframes letter {
     0% {
